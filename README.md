@@ -1,6 +1,6 @@
 # app_search
 
-Flutter project for searvhing apps.
+Flutter project for searching apps.
 
 ## Getting Started
 
